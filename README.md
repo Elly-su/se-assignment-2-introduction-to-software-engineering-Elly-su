@@ -8,12 +8,12 @@ Instructions:
 Explain the various phases of the Software DevelAnswer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering: *Software Engineering is a disciplined approach to designing, developing, maintaining, and testing software by applying engineering principles and methodologies*
+Define Software Engineering: *Software Engineering is a disciplined approach to designing, developing, maintaining, and testgiing software by applying engineering principles and methodologies*
 
-What is software engineering, and how does it differ from traditional programming?---*Software Engineering is a disciplined approach to designing, developing, maintaining, and testing software by applying engineering principles and methodologies. It differs from traditional programming by emphasizing systematic, structured development processes, collaboration, and lifecycle management* 
+What is software engineering, and how does it differ from traditional programming?---git Software Engineering is a disciplined approach to designing, developing, maintaining, and testing software by applying engineering principles and methodologies. It differs from traditional programming by emphasizing systematic, structured development processes, collaboration, and lifecycle management 
 
 Software Development Life Cycle (SDLC):opment Life Cycle. Provide a brief description of each phase.
-1. Software Development Life Cycle (SDLC):
+ Software Development Life Cycle (SDLC):
 The Software Development Life Cycle (SDLC) is a framework defining tasks performed at each step in the software development process. Here’s a brief description of each phase:
 
 Requirement Analysis:
@@ -194,17 +194,7 @@ Code of Conduct: Adhering to industry standards like ACM Code of Ethics.
 Transparency: Being open about data usage and algorithms.
 Compliance: Following laws and regulations such as GDPR for data protection.
 
-
-5. Software Design Principles:
-Modularity is the design principle of breaking down a software system into smaller, manageable, and independent modules or components.
-
-Improves Maintainability: Easier to understand, debug, and modify individual modules without affecting the entire system.
-Enhances Scalability: New functionalities can be added by creating new modules or updating existing ones without disrupting the system.
-Promotes Reusability: Modules can be reused across different parts of the system or in different projects.
-
-Example:
-In a web application, separate modules for user authentication, payment processing, and data reporting.
-6. Testing in Software Engineering:
+ Testing in Software Engineering:
 Levels of Software Testing:
 
 Unit Testing:
